@@ -170,7 +170,13 @@ p.copyright {
 
 footer{
 	background-color: burlywood;
-	color: #EBE4DE;
+  color: #EBE4DE;
+  text-align: center;
+}
+
+footer ul{
+  
+
 }
 
 
