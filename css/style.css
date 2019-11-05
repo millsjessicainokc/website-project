@@ -94,7 +94,7 @@ header{
 
 .nav-container {
   display: flex;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .nav-container div {
@@ -177,6 +177,12 @@ footer{
 footer ul{
   
 
+}
+.centerimage{
+   margin-left: auto;
+   margin-right: auto;
+  width: 50%;
+  display: block;
 }
 
 
