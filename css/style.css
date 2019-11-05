@@ -1,6 +1,6 @@
 /*
 CSS Styles: Html - CSS resource
-Author: Shanda 
+Author: jessica
 Color Palette:
    
       grey-tan: #9B9A94
@@ -85,7 +85,7 @@ a:hover {
 
 /*#################################################### -Header ####################################################*/
 header{
-  background-color: 	#3498db;
+  background-color: 	burlywood;
   height: 100px;
   display: flex;
   justify-content: center;
@@ -169,7 +169,7 @@ p.copyright {
 
 
 footer{
-	background-color: #131310;
+	background-color: burlywood;
 	color: #EBE4DE;
 }
 
