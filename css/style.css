@@ -48,13 +48,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Cinzel', serif;
-  font-weight: 400;
+  font-weight: 800;
 }
 
 .button {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 700;
-  font-size: 13px;
+  font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
@@ -112,11 +112,13 @@ header{
   display: flex;
   justify-content: center;
   align-items: center;
+  font-family: 'BenchNine', sans-serif;
+ 
 }
 
 .nav-container {
   display: flex;
-  font-size: 30px;
+  font-size: 25px;
 }
 
 .nav-container div {
@@ -173,7 +175,7 @@ input{
 }
 
 input[type=text]:focus {
-  background-color: lightblue;
+  background-color: black;
 }
 
     
