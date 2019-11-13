@@ -7,14 +7,14 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Cinzel', serif;
-  font-weight: 800;
+  font-family: 'Bad Script', cursive;
+  font-weight: 200;
 }
 
 .button {
   font-family: 'Cormorant Garamond', serif;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
@@ -68,18 +68,23 @@ a:hover {
 
 /*#################################################### -Header ####################################################*/
 header{
-  background-color: 	burlywood;
+  background-color: burlywood;
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: 'BenchNine', sans-serif;
+  font-family: 'EB Garamond', serif;
  
 }
 
 .nav-container {
   display: flex;
-  font-size: 25px;
+  font-size: 30px;
+  
 }
+  
+            
+            
+
 
 .nav-container div {
   margin-left: 20px;
@@ -136,6 +141,7 @@ input{
 
 input[type=text]:focus {
   background-color: black;
+  
 }
 
     
@@ -178,7 +184,26 @@ p.copyright {
   display: block;
  
 }
+/*about me page*/
+
 .word{
-  background-color: beige;
+  background-color: lightyellow;
 }
 
+
+/* blog*/
+
+.main-container{
+  font-size: 50px;
+  font-family: 'Wallpoet', cursive;
+
+/*about me*/
+
+.main-container{
+  font-family: 'Bad Script', cursive;
+
+
+}
+}
+
+.rounded{}
