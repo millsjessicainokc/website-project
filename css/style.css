@@ -88,6 +88,7 @@ header{
 
 .nav-container div {
   margin-left: 20px;
+
 }
 
 
@@ -194,13 +195,14 @@ p.copyright {
 /* blog*/
 
 .main-container{
-  font-size: 50px;
+  font-size: 40px;
   font-family: 'Wallpoet', cursive;
 
 /*about me*/
 
 .main-container{
-  font-family: 'Bad Script', cursive;
+  font-family: 'wallpoet', cursive;
+  
 
 
 }
